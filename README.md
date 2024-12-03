@@ -25,7 +25,8 @@
 ### Задание 1
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1511b163-0d1e-44ea-af15-c2197a856bc5)
+
 
 
 
