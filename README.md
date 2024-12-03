@@ -33,11 +33,18 @@
 
 ---
 
-### Задание 4
-
+### Задание 2
+https://github.com/ELK23/terraform3/tree/master/src
 
 
 
 ---
 
-### Задание 6
+### Задание 3
+https://github.com/ELK23/terraform3/tree/master/src
+---
+
+
+### Задание 4
+
+https://github.com/ELK23/terraform3/commit/1fb327fc6728a477ba80f33a3206552ebf189d72
